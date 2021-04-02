@@ -1,0 +1,11 @@
+fabric
+coverage
+django~=2.2
+markdown
+gunicorn
+faker
+django-pure-pagination
+elasticsearch>=2,<3
+django-haystack
+djangorestframework
+django-filter
